@@ -1,1 +1,2 @@
+1.0.3	13.07.2015	Baseline to live, final 1.9.2.0 upgrade tests
 1.0.2	10.07.2015	Permissions update see setpermissions.sh
