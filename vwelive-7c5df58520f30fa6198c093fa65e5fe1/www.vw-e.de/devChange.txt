@@ -1,3 +1,5 @@
+	14.07.2015	SEO opt1407
+	14.07.2015	PAJ_EmailOverride
 1.0.2	10.07.2015	Permissions update see setpermissions.sh
 
 
