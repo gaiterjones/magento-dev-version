@@ -1,7 +1,13 @@
-1.1.0	15.07.2015	MAGE 1.9.2.0
-	14.07.2015	SEO opt1407
-	14.07.2015	PAJ_EmailOverride
-1.0.2	10.07.2015	Permissions update see setpermissions.sh
+	* 1.1.01 21072015
+	* 
+		* CSS for related price, (line 1507), related.phtml [X]
+		* ALT tag for images with no label data, media.phtml [X]
+		* Rkt_Sbcache - static block bug (#7817) workaround
+
+	1.1.0	15.07.2015	MAGE 1.9.2.0
+			14.07.2015	SEO opt1407
+			14.07.2015	PAJ_EmailOverride
+	1.0.2	10.07.2015	Permissions update see setpermissions.sh
 
 
   Magento Modules
