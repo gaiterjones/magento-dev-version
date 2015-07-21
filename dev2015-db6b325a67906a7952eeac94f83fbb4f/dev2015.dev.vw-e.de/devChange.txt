@@ -1,4 +1,9 @@
-1.1.0	15.07.2015	MAGE 1.9.2.0
-1.0.3	14.07.2015	ROBOTS noindex for duplicated content pages testing
-1.0.3	13.07.2015	Baseline to live, final 1.9.2.0 upgrade tests
-1.0.2	10.07.2015	Permissions update see setpermissions.sh
+	* 1.1.01 21072015
+	* 
+		* CSS for related price, (line 1507), related.phtml [X]
+		* ALT tag for images with no label data, media.phtml [X]
+		
+	1.1.0	15.07.2015	MAGE 1.9.2.0
+	1.0.3	14.07.2015	ROBOTS noindex for duplicated content pages testing
+	1.0.3	13.07.2015	Baseline to live, final 1.9.2.0 upgrade tests
+	1.0.2	10.07.2015	Permissions update see setpermissions.sh
