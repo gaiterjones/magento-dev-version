@@ -1,3 +1,26 @@
+	* 1.1.06 SEO Opt 27072015
+	* 1.1.05 31072015
+	* 
+		* Disabled SID in frontend	
+	* 1.1.04 30072015
+	* 
+		* https://www.feedthebot.com/pagespeed/ttfb.html
+		* http://colin.mollenhour.com/2010/06/30/the-right-way-to-optimize-apaches-htaccess-files/
+		* .htaccess combined		
+	* 1.1.03 27072015
+	* 
+		* fixed newsletter subscription
+		* fixed dynamic mixitup filter bug with duplicate filter controls
+		* 
+			* upgrade mixitup js source
+
+		* implemented SEO for layered nav links
+		* 
+			* VWE_Seo
+		
+	* 1.1.02 24072015
+	* 
+		* minify html update
 	* 1.1.01 21072015
 	* 
 		* CSS for related price, (line 1507), related.phtml [X]

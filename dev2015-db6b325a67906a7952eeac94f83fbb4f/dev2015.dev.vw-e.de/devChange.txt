@@ -1,3 +1,17 @@
+	* 1.1.03 27072015
+	* 
+		* fixed newsletter subscription
+		* fixed dynamic mixitup filter bug with duplicate filter controls
+		* 
+			* upgrade mixitup js source
+
+		* implemented SEO for layered nav links
+		* 
+			* VWE_Seo
+
+	* 1.1.02 24072015
+	* 
+		* minify html update
 	* 1.1.01 21072015
 	* 
 		* CSS for related price, (line 1507), related.phtml [X]
