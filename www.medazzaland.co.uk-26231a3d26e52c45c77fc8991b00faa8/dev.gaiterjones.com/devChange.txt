@@ -1,5 +1,6 @@
 dev.medazzaland.co.uk
 
+1.0.04	10.08.2015	Upgrade to Mage 1.9.2.1
 1.0.03	21.07.2015	Rkt_SbCache Issue 7817 http://magento.stackexchange.com/questions/73685/magento-1-9-2-0-static-block-display-issues
 1.0.02	10.07.2015	Permissions update see setpermissions.sh
 1.0.01	10.07.2015	Upgrade to Mage 1.9.2.0, patched template cart.phtml
