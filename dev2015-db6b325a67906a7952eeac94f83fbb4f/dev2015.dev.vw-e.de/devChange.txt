@@ -1,3 +1,5 @@
+	* 1.1.10 MAGE 1.9.2.1
+	* 1.1.07 Fixed minímal price for grouped products to include tier prices in app/design/frontend/vwe/default/template/catalog/product/price.phtml
 	* 1.1.03 27072015
 	* 
 		* fixed newsletter subscription
