@@ -1,4 +1,6 @@
+	* 1.1.10 MAGE 1.9.2.1
 	* 1.1.07 Fixed minímal price for grouped products to include tier prices in app/design/frontend/vwe/default/template/catalog/product/price.phtml
+			 Fixed minimal price for product price meta markup to include grouped tier prices see getLowestGroupedProductPrice($_product)
 	* 1.1.06 SEO Opt 27072015
 	* 1.1.05 31072015
 	* 
