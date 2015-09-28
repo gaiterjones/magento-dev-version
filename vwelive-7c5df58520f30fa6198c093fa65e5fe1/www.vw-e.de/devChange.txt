@@ -1,3 +1,9 @@
+	* 1.1.14 Logic for XS Sku in template/email/order/items/order/default.phtml
+	* 1.1.13 Prevent duplicate google content by adding no index to layered navigation category pages, search pages and gallery pages. 
+	* 1.1.12 Popup alert for WS shipping method 10.09.2015
+			 Enable tracking for matrixrates
+	* 1.1.11 Pagespeed module with minifyhtml developed for FPC
+				PAGESPEED DESKTOP 93, MOBILE 78
 	* 1.1.10 MAGE 1.9.2.1
 				modman clone https://github.com/gaiterjones/Rkt_SbCache.git
 				Still seeing static block cache bug
