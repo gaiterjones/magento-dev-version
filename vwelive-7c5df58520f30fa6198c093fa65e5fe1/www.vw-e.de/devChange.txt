@@ -1,5 +1,9 @@
+﻿	* 1.1.15 Facebook social login implemented and deactivated 10.10.2015 
+			CSS changes for form input colours
+			Slider for home info box
 	* 1.1.14 Logic for XS Sku in template/email/order/items/order/default.phtml
-	* 1.1.13 Prevent duplicate google content by adding no index to layered navigation category pages, search pages and gallery pages. 
+	* 1.1.13 Prevent duplicate google content by adding no index to layered navigation category pages, search pages and gallery pages
+		REVERSED! 15102015 
 	* 1.1.12 Popup alert for WS shipping method 10.09.2015
 			 Enable tracking for matrixrates
 	* 1.1.11 Pagespeed module with minifyhtml developed for FPC

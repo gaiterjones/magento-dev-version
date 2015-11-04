@@ -1,5 +1,5 @@
 dev.medazzaland.co.uk
-
+1.1.00	04.11.2015  Upgrade to Mage 1.9.2.2
 1.0.05	27.08.2015	Implemented new pagespeed module and FPC integration, pagespeed 93,75
 1.0.04	10.08.2015	Upgrade to Mage 1.9.2.1
 1.0.03	21.07.2015	Rkt_SbCache Issue 7817 http://magento.stackexchange.com/questions/73685/magento-1-9-2-0-static-block-display-issues
