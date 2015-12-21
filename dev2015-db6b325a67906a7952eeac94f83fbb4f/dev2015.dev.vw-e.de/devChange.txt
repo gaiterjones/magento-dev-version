@@ -1,3 +1,12 @@
+	* 1.2.0 21122015 MAGE 1.9.2.2
+		SUPEE-6788
+		Upgraded Modules
+			debit/sepa
+			customer activation
+			html invoice
+			euvat
+			vwe extend
+			vwe page
 	* 1.1.15 Facebook social login implemented 10.10.2015 
 			CSS changes for form input colours
 			Slider for home info box
