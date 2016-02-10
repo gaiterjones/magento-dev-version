@@ -1,4 +1,6 @@
-﻿	* 1.3.0 08022016 MAGE 1.9.2.3
+﻿	* 1.3.1 10022016
+		Paypal Plus integration
+	* 1.3.0 08022016 MAGE 1.9.2.3
 	* 1.2.0 21122015 MAGE 1.9.2.2
 		SUPEE-6788
 		Upgraded Modules
