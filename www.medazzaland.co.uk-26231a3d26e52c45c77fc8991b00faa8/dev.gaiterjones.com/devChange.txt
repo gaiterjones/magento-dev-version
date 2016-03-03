@@ -1,5 +1,6 @@
 dev.medazzaland.co.uk
-1.2.00	25.01.2016  Upgrade to Mage 1.9.2.3
+1.4.00	25.01.2016  Upgrade to Mage 1.9.2.4
+1.3.00	25.01.2016  Upgrade to Mage 1.9.2.3
 1.1.00	04.11.2015  Upgrade to Mage 1.9.2.2
 1.0.05	27.08.2015	Implemented new pagespeed module and FPC integration, pagespeed 93,75
 1.0.04	10.08.2015	Upgrade to Mage 1.9.2.1
