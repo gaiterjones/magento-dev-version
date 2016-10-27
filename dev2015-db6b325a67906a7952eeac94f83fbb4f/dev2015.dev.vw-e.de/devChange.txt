@@ -1,3 +1,7 @@
+	* 1.4.3 28102016
+		TRUNCATE TABLE core_url_rewrite
+		Rewrite Mage_Catalog_Model_Url
+		http://magento.stackexchange.com/questions/17553/magento-core-url-rewrite-table-excessively-large
 	* 1.4.2 06042016 
 		Product info slider
 		Configurable product dropdown change selects gallery image
