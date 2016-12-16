@@ -1,3 +1,4 @@
+	* 1.5.0 16122016 MAGE 1.9.3.1
 	* 1.4.3 28102016
 		TRUNCATE TABLE core_url_rewrite
 		Rewrite Mage_Catalog_Model_Url
