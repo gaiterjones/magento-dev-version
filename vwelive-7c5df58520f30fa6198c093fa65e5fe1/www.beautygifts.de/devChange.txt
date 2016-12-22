@@ -1,4 +1,6 @@
-﻿	* 1.4.1 30032016 
+﻿	* 1.5.0 22122016
+		MAGE 1931
+	* 1.4.1 30032016 
 		2 clicks for more privacy, social sharing privacy	
 	* 1.4.0 02032016
 	

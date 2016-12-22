@@ -1,4 +1,6 @@
-﻿	* 1.4.1 02062016 
+﻿	* 1.5.0 22122016
+		MAGE 1931
+	* 1.4.1 02062016 
 		Paypal Plus integration
 		2 clicks for more privacy, social sharing privacy	
 	* 1.4.0 02062016
