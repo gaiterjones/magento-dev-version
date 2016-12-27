@@ -1,4 +1,6 @@
-﻿	* 1.4.4 21102016
+﻿	* 1.5.0 27122016
+		MAGE 1931
+	* 1.4.4 21102016
 		Customer group change notification for B2B customers
 	* 1.4.3 28102016
 		TRUNCATE TABLE core_url_rewrite
