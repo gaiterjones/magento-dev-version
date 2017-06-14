@@ -1,4 +1,6 @@
-﻿	* 1.6.1 15032017 VWE_Catalog_Model_CatalogSearch_Resource_Fulltext -> http://stackoverflow.com/questions/8799861/magento-search-issue
+﻿	* 1.7.0 06062017
+		MAGE 1933
+	* 1.6.1 15032017 VWE_Catalog_Model_CatalogSearch_Resource_Fulltext -> http://stackoverflow.com/questions/8799861/magento-search-issue
 	* 1.6.0 15032017
 		MAGE 1932
 	* 1.5.1 05012017
