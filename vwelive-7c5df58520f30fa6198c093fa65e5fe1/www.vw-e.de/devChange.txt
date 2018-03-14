@@ -1,4 +1,15 @@
-﻿	* 1.10.0 04122017
+﻿	* 1.11.0 14032018
+		MAGE 1938
+	* 1.10.2 13032018
+		Added logic for product samples see helper('VWE_Page/ProductSamplesHTML')
+		and app/design/frontend/vwe/default/template/catalog/product/view.phtml
+	* 1.10.1 15012018
+		REVERSED ALL HTTPS due to GOOGLE INDEX issue ??? - this was bollox - changed back all pages server via HTTPS
+	* 1.10.1 07122017
+		Moved all pages to https
+		https://magento.stackexchange.com/questions/70405/force-https-on-all-pages-in-the-frontend-not-just-checkout-account
+		see comnbined htaccess and web config
+	* 1.10.0 04122017
 		MAGE 1937
 	* 1.9.0 11102017
 		MAGE 1936
