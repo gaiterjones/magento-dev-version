@@ -1,4 +1,9 @@
-﻿	* 1.11.0 07032018
+﻿	* 1.11.2 22052018	
+		GDPR compliance implemented in modules - see GDPR compliance docs
+			VWE_GDPR
+			VWE_Page
+			VWE_Customer
+	* 1.11.0 07032018
 		MAGE 1938
 	* 1.10.0 05122017
 		MAGE 1937

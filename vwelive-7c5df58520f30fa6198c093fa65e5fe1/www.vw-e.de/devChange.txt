@@ -1,4 +1,12 @@
-﻿	* 1.11.0 14032018
+﻿	* 1.11.2 22052018	
+		GDPR compliance implemented in modules - see GDPR compliance docs
+			VWE_GDPR
+			VWE_Page
+			VWE_Customer
+	* 1.11.1 13042018
+		fix double livezilla link on cart page see vwe/page/head/links.phtml
+		update livezilla script code
+	* 1.11.0 14032018
 		MAGE 1938
 	* 1.10.2 13032018
 		Added logic for product samples see helper('VWE_Page/ProductSamplesHTML')
